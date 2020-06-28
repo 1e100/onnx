@@ -97,3 +97,7 @@ test_report
 .mypy_cache
 virtualenv
 venv
+
+# Bazel-related
+/bazel-*
+user.bazelrc
